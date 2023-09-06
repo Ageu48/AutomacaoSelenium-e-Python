@@ -1,0 +1,5 @@
+97087 <- sub link
+54664 <- sub link
+
+utilize conforme o exemplo acima, caso deseje pesquisar links 
+de sites diferente onde a base do link vai mudar, devera inserir os links aqui porem é necessario adaptar o código
